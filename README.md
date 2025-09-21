@@ -1,4 +1,4 @@
-# Marvellous DBMS (Java Project)
+# Custommized_DBMS (Java Project)
 
 A simple Java-based mini DBMS project that manages employee records using **LinkedList** and **Serialization**.  
 It provides basic CRUD operations along with SQL-like aggregate functions.
