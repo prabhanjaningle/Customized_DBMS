@@ -25,10 +25,13 @@ It provides basic CRUD operations along with SQL-like aggregate functions.
 ---
 
 ## 📂 Project Structure
-MarvellousDBMS/
+Customized_DBMS/
 ├── Employee.java # Employee class with attributes
+
 ├── MarvellousDBMS.java # Core DBMS logic (CRUD + aggregate functions)
-├── Program850.java # Main driver program with menu
+
+├── Custom_DBMS.java # Main driver program with menu
+
 └── README.md # Project documentation
 
 ---
