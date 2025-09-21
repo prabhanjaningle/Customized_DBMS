@@ -40,15 +40,15 @@ MarvellousDBMS/
 
 2. Navigate to the project folder.
 
-cd marvellous-dbms
+   cd marvellous-dbms
+   
+3. Compile the Java files.
 
-3.Compile the Java files.
+   javac Custom_DBMS.java
 
-javac Custom_DBMS.java
+4. Run the program.
 
-4.Run the program.
-
-java Custom_DBMS
+   java Custom_DBMS
 
 
 👨‍💻 Author
